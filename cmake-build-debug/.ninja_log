@@ -1,0 +1,13 @@
+# ninja log v6
+4	700	7786347040098234	CMakeFiles/guess_the_word.dir/main.cpp.obj	5295f1bb16a933ca
+702	868	7786347047081766	guess_the_word.exe	bba269b06d086836
+25	850	7786348047052369	CMakeFiles/guess_the_word.dir/main.cpp.obj	5295f1bb16a933ca
+851	991	7786348055317439	guess_the_word.exe	bba269b06d086836
+26	680	7786349517443392	CMakeFiles/guess_the_word.dir/main.cpp.obj	5295f1bb16a933ca
+681	794	7786349523984806	guess_the_word.exe	bba269b06d086836
+21	896	7786351040866892	CMakeFiles/guess_the_word.dir/main.cpp.obj	5295f1bb16a933ca
+897	1011	7786351049629967	guess_the_word.exe	bba269b06d086836
+161	1407	7787215319946899	CMakeFiles/guess_the_word.dir/main.cpp.obj	5295f1bb16a933ca
+1407	1867	7787215332403552	guess_the_word.exe	bba269b06d086836
+46	887	7787217452448520	CMakeFiles/guess_the_word.dir/main.cpp.obj	5295f1bb16a933ca
+888	1043	7787217460873150	guess_the_word.exe	bba269b06d086836
