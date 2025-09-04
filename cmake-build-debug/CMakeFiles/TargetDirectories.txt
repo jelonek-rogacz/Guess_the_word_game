@@ -1,3 +1,0 @@
-C:/Users/beata/CLionProjects/guess_the_word/cmake-build-debug/CMakeFiles/guess_the_word.dir
-C:/Users/beata/CLionProjects/guess_the_word/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/beata/CLionProjects/guess_the_word/cmake-build-debug/CMakeFiles/rebuild_cache.dir
